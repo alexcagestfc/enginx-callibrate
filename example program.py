@@ -49,6 +49,4 @@ for n in range(parts):
     #peakposition=peakposition[1:]
     #print(x0vals)
     offsetchart(x0vals,x0max,max3,peakposition)
-"""
-IT WORKS!!
-"""
+
