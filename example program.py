@@ -24,9 +24,9 @@ getprefix(ceriadat)
 i=50
 expnumber = 25226
 totalmin = 1
-totalmax=1200
+totalmax=2400
 generalname='spc'
-parts=25
+parts=10
 
 
 #loadfromexn(expnumber,totalmin,totalmax,'spc1',ceriadat)
